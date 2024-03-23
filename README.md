@@ -36,4 +36,8 @@ In our endeavor as Team Curium, comprising six dedicated members, we embark on a
 
 In India's startup landscape, the technology sector emerges as the frontrunner in terms of receiving the highest levels of funding, closely trailed by the commerce sector. Conversely, the government sector witnesses the lowest influx of funding, with telecommunications following suit. Notably, Mumbai stands out as the prime location for startup investments, with Bangalore following closely behind. These trends underscore the dynamic nature of India's startup ecosystem, highlighting key sectors and geographic locations that attract significant investor interest and drive entrepreneurial growth.
 
+### Power Bi dashboard
 
+![Home Page](images/POWER1.JPG)
+![Home Page](images/POWER1.JPG)
+![Home Page](images/POWER1.JPG)
