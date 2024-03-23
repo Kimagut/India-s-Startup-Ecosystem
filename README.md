@@ -39,5 +39,5 @@ In India's startup landscape, the technology sector emerges as the frontrunner i
 ### Power Bi dashboard
 
 ![Home Page](images/POWER1.JPG)
-![Home Page](images/POWER1.JPG)
-![Home Page](images/POWER1.JPG)
+![Performance Dashboard](images/POWER2.JPG)
+![Trend Dashboard](images/POWER3.JPG)
