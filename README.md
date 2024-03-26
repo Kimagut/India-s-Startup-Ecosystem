@@ -53,9 +53,9 @@ As a data analytics professional, I approached the task of exploring datasets sp
 
 ### Hypothesis Testing
 
-**Null Hypothesis(Ho):** There is no siginificate difference in the amount of funding between startups in India.
+**Null Hypothesis(Ho):** There is no siginificant difference in the amount of funding between startups in India.
 
-**Alternative Hypothesis(Ha):** There is a siginificate difference in the amount of funding between startups in India.
+**Alternative Hypothesis(Ha):** There is a siginificant difference in the amount of funding between startups in India.
 
 ### Conclusion
 
