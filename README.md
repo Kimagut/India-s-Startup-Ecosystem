@@ -1,5 +1,29 @@
 # India's Startup Ecosystem Activity and Investement Analysis
-In our endeavor as Team Curium, comprising six dedicated members, we embark on a strategic exploration into the vibrant landscape of the Indian startup ecosystem. Tasked with this mission, I, as the team's data expert, have been entrusted with a crucial role: to delve into the intricacies of this dynamic environment and chart a course of action that maximizes our potential for success. Our primary objective is clear: to meticulously analyze the funding trends received by startups in India spanning the years 2018 to 2021. Armed with comprehensive datasets delineating funding disbursements on an annual basis, our aim is to unearth invaluable insights into the startup landscape, encompassing details on funding allocations, startup profiles, and the identities of key investors. Through this rigorous analysis, we aspire to gain a deep understanding of the prevailing trends, unearth lucrative opportunities, and navigate the challenges that define the Indian startup ecosystem. Ultimately, our endeavor is to distill this wealth of information into actionable intelligence that will inform strategic decisions and propel our venture towards unprecedented success.
+In our endeavor as Team Curium, comprising six dedicated members, we embark on a strategic exploration into the vibrant landscape of the Indian startup ecosystem. Our project, structured under the CRISP-DM framework, encompasses several key phases including Business Understanding, Data Understanding and Preparation, Modelling, Evaluation, and Deployment. Central to our approach is the recognition of Exploratory Data Analysis (EDA) as a foundational step in our analytical journey. Through meticulous EDA, we have delved into the intricacies of the Indian startup ecosystem spanning the years 2018 to 2021. This phase was instrumental for several reasons:
+
+**Critical Investigation of Data:** Prior to analysis, EDA allowed us to scrutinize the dataset thoroughly, enabling us to identify any anomalies or inconsistencies that could affect the validity of our findings.
+**Trend and Pattern Analysis:** By comparing and contrasting trends and patterns across the datasets from 2018 to 2021, we gained valuable insights into the evolving landscape of the Indian start-up scene.
+**Model Selection:** EDA played a crucial role in the preliminary selection of appropriate models, laying the groundwork for subsequent modelling phases.
+Hypothesis Evaluation: Through EDA, we were able to assess how well our data supported both null and alternate hypotheses, guiding the direction of our analysis.
+**Visualization for Stakeholders:** EDA facilitated the creation of informative visualizations, empowering us to address pertinent questions and provide actionable insights to our stakeholders, particularly potential investors.
+
+##INTRODUCTION
+As a data analytics professional, I approached the task of exploring datasets spanning 2018 to 2021 within the Indian startup ecosystem with great sensitivity. This exploration aimed to gain a deep understanding of funding dynamics. The project’s primary objective was to dissect the trends shaping the Indian startup landscape and propose actionable strategies. To achieve this, a meticulous exploration was imperative. Delving into the datasets, I meticulously analyzed funding trends over the four-year period, focusing on extracting insights that could inform potential investors’ decisions. This involved leveraging various libraries and techniques, including CSV dataset manipulation and SQL database extraction, to conduct a comprehensive Exploratory Data Analysis (EDA). Through this process, I examined both categorical and numerical variables, scrutinizing their distributions and identifying recurring patterns. Moreover, I paid particular attention to data integrity, addressing issues such as missing values, outliers, and inconsistencies. Additionally, I performed extensive grouping of data, particularly within sectors and stages, to facilitate a more nuanced analysis. This comprehensive EDA provided a solid foundation for the subsequent stages of the project, empowering me to derive meaningful insights and actionable recommendations for investors venturing into the Indian startup ecosystem.
+
+## Tools and Programming Languages Used
+- VS Code
+- Microsoft PowerBI
+- GitHub & Git
+- Microsoft SQL Server
+- Python
+- Jupyter notebook
+- SQL
+## Python Libraries used
+- **Connections:** Pyodbc, dotnev_values, — allowing Python to interact with various database management systems. while dotnev_values allows loading environment variables from a .env file into the environment,
+- Analysis: numpy,pandas,regex, statistics,- provides data structures and data analysis tools for working with structured
+- **Visualization:** seaborn, matplotlib, wodcloud, scipy- plotting graphs, facilitating easy visualization of datasets.
+- **Statistical tests:** ttest_ind, — Provides functions for performing independent two-sample t-tests,
+- **Warnings:** warnings- Allows for the issuance of warning messages in Python, providing a flexible mechanism for alerting users to potential issues or unusual conditions during program execution.
 
 ## Columns in our dataset
  **Column**             **Dtype**   
