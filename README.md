@@ -2,6 +2,7 @@
 In our endeavor as Team Curium, comprising six dedicated members, we embark on a strategic exploration into the vibrant landscape of the Indian startup ecosystem. Our project, structured under the CRISP-DM framework, encompasses several key phases including Business Understanding, Data Understanding and Preparation, Modelling, Evaluation, and Deployment. Central to our approach is the recognition of Exploratory Data Analysis (EDA) as a foundational step in our analytical journey. Through meticulous EDA, we have delved into the intricacies of the Indian startup ecosystem spanning the years 2018 to 2021. This phase was instrumental for several reasons:
 
 - **Critical Investigation of Data:** Prior to analysis, EDA allowed us to scrutinize the dataset thoroughly, enabling us to identify any anomalies or inconsistencies that could affect the validity of our findings.
+- **Data Cleaning** 
 - **Trend and Pattern Analysis:** By comparing and contrasting trends and patterns across the datasets from 2018 to 2021, we gained valuable insights into the evolving landscape of the Indian start-up scene.
 - **Model Selection:** EDA played a crucial role in the preliminary selection of appropriate models, laying the groundwork for subsequent modelling phases.
 Hypothesis Evaluation: Through EDA, we were able to assess how well our data supported both null and alternate hypotheses, guiding the direction of our analysis.
